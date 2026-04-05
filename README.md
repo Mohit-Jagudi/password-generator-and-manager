@@ -22,9 +22,10 @@ A simple and interactive **Python-based Password Generator and Manager** that al
 ## Technologies Used
 
 * Python
-* File Handling
 * Random Module
 * String Module
+* Os Module
+* File Handling
 * Exception Handling
 
 ---
