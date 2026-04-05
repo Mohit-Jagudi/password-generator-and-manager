@@ -31,7 +31,7 @@ A simple and interactive **Python-based Password Generator and Manager** that al
 
 ## Project Structure
 
-password-generator-and-manager/
+password-generator-and-manager/<br>
 │── password_manager.py <br>
 │── passwords.txt (Automatically created when the program saves a password)<br>
 │── README.md
